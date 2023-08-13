@@ -1,0 +1,40 @@
+
+**Admin Login Details** 
+
+Email	: admin@mail.com
+Password: Password@123
+
+
+**Lecturers Login Details**
+
+Email	:  ooni@mail.com	
+Password: 01234567
+
+Email	:  mahmood@mail.com
+Password:  88888888
+
+Email	:  olorunda@mail.com
+Password:  12345678
+		
+Email	:  aina@mail.com	
+Password:  24000011	
+	
+Email	:  demolecturer@mail.com
+Password:  77777777		
+
+**Student Login Details**
+
+Email	:  temidayoakinsola42@gmail.com	
+Password:  21010211021
+
+Email	:  tosin@gmail.com
+Password:  21010211112
+
+Email	:  slyvester@mail.com
+Password:  210102112122
+		
+Email	:  liamoore@mail.com	
+Password:  212033102	
+	
+Email	:  demostd@mail.com
+Password:  01112004	
